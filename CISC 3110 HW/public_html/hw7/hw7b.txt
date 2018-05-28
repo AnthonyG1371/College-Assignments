@@ -1,0 +1,14 @@
+Script started on Sun 07 Dec 2014 01:54:11 PM EST
+[agoh@sol22 hw7]$ ./a.out
+Enter a numerator: 100
+Enter a denominator. DONT PUT ZERO!: 2
+Enter the number of times you want to divide: 5
+The current quotient is 3
+The current quotient is 6
+The current quotient is 12
+The current quotient is 25
+The current quotient is 50
+The original numerator was: 100
+[agoh@sol22 hw7]$ exit
+
+Script done on Sun 07 Dec 2014 01:55:13 PM EST

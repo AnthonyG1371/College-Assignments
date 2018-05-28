@@ -1,0 +1,38 @@
+#inlclude<queue>
+#include"Node"
+template <typename T>
+
+class Queue
+{
+  public:
+    Queue(Node a, Node b)
+	{
+	  q.push(a); //FIRST
+	  q.push(b); //LAST
+	  head = q.front();
+	  tail = q.back();
+	  size = q.size();
+	}
+  protected:
+    queue<Node> q;
+	Node* head;
+	Node* tail;
+	int size;
+}
+
+class DerivedQueue: public Queue
+{
+  protected:
+	Queue<Node> emergency_push(Node n, Queue q)
+    {
+	  newq.push(n);
+	  
+	  while(q.size > 0)
+	  {
+	    newq.push(q.front());
+		q.pop();
+	    size--;
+	  }
+	  return newq;
+	}	
+}

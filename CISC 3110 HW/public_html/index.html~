@@ -1,0 +1,62 @@
+<HTML>
+
+<HEAD>
+
+<TITLE>acc6.its.brooklyn.cuny.edu</TITLE>
+
+</HEAD>
+
+<BODY>
+
+<body bgcolor=skyblue>
+
+<H1>
+Welcome to <i>Anthony Goh's</i> site!
+</H1>
+
+<H3>
+This site is for the submission of the HW material for CISC 3110.
+</H3>
+
+<br>
+
+<a href=HelloWorld.cpp> Submission of HW1</a>
+
+<br>
+<a href=bdgame.cpp> Submission of HW2</a>     <a href=3X_Board.docx> 3X Board</a>    
+
+<br>
+<a href=UnixLab1.txt> Unix Lab 1</a>
+
+<br>
+<br>
+<a href=bdgame_v2a.cpp> HW 3: Board Game 2a: Dynamic Allocation</a> &nbsp&nbsp
+
+ <a href=bdgame_v2b.cpp> HW 3:  Board Game 2b: Vector Allocation</a>
+
+<br>
+<br>
+<a href=lab2a.cpp> Lab 2: C-Strings Part 1</a> &nbsp&nbsp
+ <a href=lab2b.cpp> Lab 2: C-Strings Part 2</a> &nbsp&nbsp
+ <a href=lab2c.cpp> Lab 2: C++ Strings Part 1</a> &nbsp&nbsp
+ <a href=lab2d.cpp> Lab 2: C++ Strings Part 2</a>
+
+<br>
+<br>
+<a href=bdgame_v3.cpp> HW 5: Board Game 3: Arrays of Objects</a>
+
+<br>
+<br>
+Lab 3: Classes and Object Composition
+<a href = car.h> Header File</a> &nbsp&nbsp
+<a href = car.cpp> Functions</a> &nbsp&nbsp
+<a href = client.cpp> Main Program</a>
+
+<br>
+<br>
+Click Here to access Assignment 6  
+<a href = hw6> HW6</a>
+
+</BODY>
+
+</HTML>

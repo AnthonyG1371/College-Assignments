@@ -1,0 +1,224 @@
+File: C:\Users\Anthony G\Desktop\TEST1\GlobalMembers.java
+Line Number: 7
+Message: //C++ TO JAVA CONVERTER WARNING: Unsigned integer types have no direct equivalent in Java:
+--------------------------------------------------------------------------------------
+File: C:\Users\Anthony G\Desktop\TEST1\GlobalMembers.java
+Line Number: 9
+Message: //C++ TO JAVA CONVERTER WARNING: The right shift operator was replaced by Java's logical right shift operator since the left operand was originally of an unsigned type, but you should confirm this replacement:
+--------------------------------------------------------------------------------------
+File: C:\Users\Anthony G\Desktop\TEST1\graph - Copy.java
+Line Number: 3
+Message: //C++ TO JAVA CONVERTER TODO TASK: The original C++ template specifier was replaced with a Java generic specifier, which may not produce the same behavior:
+--------------------------------------------------------------------------------------
+File: C:\Users\Anthony G\Desktop\TEST1\graph - Copy.java
+Line Number: 20
+Message: //C++ TO JAVA CONVERTER WARNING: 'const' methods are not available in Java:
+--------------------------------------------------------------------------------------
+File: C:\Users\Anthony G\Desktop\TEST1\graph - Copy.java
+Line Number: 26
+Message: //C++ TO JAVA CONVERTER TODO TASK: Iterators are only converted within the context of 'while' and 'for' loops:
+--------------------------------------------------------------------------------------
+File: C:\Users\Anthony G\Desktop\TEST1\graph - Copy.java
+Line Number: 45
+Message: //C++ TO JAVA CONVERTER TODO TASK: Java does not have an equivalent to pointers to variables (in Java, the variable no longer points to the original when the original variable is re-assigned):
+--------------------------------------------------------------------------------------
+File: C:\Users\Anthony G\Desktop\TEST1\graph - Copy.java
+Line Number: 47
+Message: //C++ TO JAVA CONVERTER WARNING: The following line was determined to be a copy assignment (rather than a reference assignment) - this should be verified and a 'copyFrom' method should be created if it does not yet exist:
+--------------------------------------------------------------------------------------
+File: C:\Users\Anthony G\Desktop\TEST1\graph - Copy.java
+Line Number: 54
+Message: //C++ TO JAVA CONVERTER NOTE: This 'copyFrom' method was converted from the original copy assignment operator:
+--------------------------------------------------------------------------------------
+File: C:\Users\Anthony G\Desktop\TEST1\graph - Copy.java
+Line Number: 87
+Message: //C++ TO JAVA CONVERTER WARNING: 'const' methods are not available in Java:
+--------------------------------------------------------------------------------------
+File: C:\Users\Anthony G\Desktop\TEST1\graph - Copy.java
+Line Number: 95
+Message: //C++ TO JAVA CONVERTER WARNING: 'const' methods are not available in Java:
+--------------------------------------------------------------------------------------
+File: C:\Users\Anthony G\Desktop\TEST1\graph - Copy.java
+Line Number: 103
+Message: //C++ TO JAVA CONVERTER WARNING: 'const' methods are not available in Java:
+--------------------------------------------------------------------------------------
+File: C:\Users\Anthony G\Desktop\TEST1\graph - Copy.java
+Line Number: 116
+Message: //C++ TO JAVA CONVERTER WARNING: 'const' methods are not available in Java:
+--------------------------------------------------------------------------------------
+File: C:\Users\Anthony G\Desktop\TEST1\graph - Copy.java
+Line Number: 138
+Message: //C++ TO JAVA CONVERTER TODO TASK: Iterators are only converted within the context of 'while' and 'for' loops:
+--------------------------------------------------------------------------------------
+File: C:\Users\Anthony G\Desktop\TEST1\graph - Copy.java
+Line Number: 172
+Message: //C++ TO JAVA CONVERTER TODO TASK: Iterators are only converted within the context of 'while' and 'for' loops:
+--------------------------------------------------------------------------------------
+File: C:\Users\Anthony G\Desktop\TEST1\graph - Copy.java
+Line Number: 189
+Message: //C++ TO JAVA CONVERTER WARNING: 'const' methods are not available in Java:
+--------------------------------------------------------------------------------------
+File: C:\Users\Anthony G\Desktop\TEST1\graph - Copy.java
+Line Number: 213
+Message: //C++ TO JAVA CONVERTER WARNING: 'const' methods are not available in Java:
+--------------------------------------------------------------------------------------
+File: C:\Users\Anthony G\Desktop\TEST1\graph - Copy.java
+Line Number: 237
+Message: //C++ TO JAVA CONVERTER WARNING: 'const' methods are not available in Java:
+--------------------------------------------------------------------------------------
+File: C:\Users\Anthony G\Desktop\TEST1\graph - Copy.java
+Line Number: 266
+Message: //C++ TO JAVA CONVERTER TODO TASK: Iterators are only converted within the context of 'while' and 'for' loops:
+--------------------------------------------------------------------------------------
+File: C:\Users\Anthony G\Desktop\TEST1\graph - Copy.java
+Line Number: 383
+Message: //C++ TO JAVA CONVERTER WARNING: The following line was determined to be a copy assignment (rather than a reference assignment) - this should be verified and a 'copyFrom' method should be created if it does not yet exist:
+--------------------------------------------------------------------------------------
+File: C:\Users\Anthony G\Desktop\TEST1\graph - Copy.java
+Line Number: 388
+Message: //C++ TO JAVA CONVERTER TODO TASK: Iterators are only converted within the context of 'while' and 'for' loops:
+--------------------------------------------------------------------------------------
+File: C:\Users\Anthony G\Desktop\TEST1\graph - Copy.java
+Line Number: 447
+Message: //C++ TO JAVA CONVERTER WARNING: The following line was determined to be a copy assignment (rather than a reference assignment) - this should be verified and a 'copyFrom' method should be created if it does not yet exist:
+--------------------------------------------------------------------------------------
+File: C:\Users\Anthony G\Desktop\TEST1\graph - Copy.java
+Line Number: 464
+Message: //C++ TO JAVA CONVERTER TODO TASK: Iterators are only converted within the context of 'while' and 'for' loops:
+--------------------------------------------------------------------------------------
+File: C:\Users\Anthony G\Desktop\TEST1\graph - Copy.java
+Line Number: 499
+Message: //C++ TO JAVA CONVERTER TODO TASK: There is no direct equivalent to the STL vector 'erase' method in Java:
+--------------------------------------------------------------------------------------
+File: C:\Users\Anthony G\Desktop\TEST1\graph - Copy.java
+Line Number: 526
+Message: //C++ TO JAVA CONVERTER WARNING: 'const' methods are not available in Java:
+--------------------------------------------------------------------------------------
+File: C:\Users\Anthony G\Desktop\TEST1\graph - Copy.java
+Line Number: 532
+Message: //C++ TO JAVA CONVERTER WARNING: 'const' methods are not available in Java:
+--------------------------------------------------------------------------------------
+File: C:\Users\Anthony G\Desktop\TEST1\graph - Copy.java
+Line Number: 614
+Message: //C++ TO JAVA CONVERTER WARNING: 'const' methods are not available in Java:
+--------------------------------------------------------------------------------------
+File: C:\Users\Anthony G\Desktop\TEST1\graph.java
+Line Number: 3
+Message: //C++ TO JAVA CONVERTER TODO TASK: The original C++ template specifier was replaced with a Java generic specifier, which may not produce the same behavior:
+--------------------------------------------------------------------------------------
+File: C:\Users\Anthony G\Desktop\TEST1\graph.java
+Line Number: 20
+Message: //C++ TO JAVA CONVERTER WARNING: 'const' methods are not available in Java:
+--------------------------------------------------------------------------------------
+File: C:\Users\Anthony G\Desktop\TEST1\graph.java
+Line Number: 26
+Message: //C++ TO JAVA CONVERTER TODO TASK: Iterators are only converted within the context of 'while' and 'for' loops:
+--------------------------------------------------------------------------------------
+File: C:\Users\Anthony G\Desktop\TEST1\graph.java
+Line Number: 45
+Message: //C++ TO JAVA CONVERTER TODO TASK: Java does not have an equivalent to pointers to variables (in Java, the variable no longer points to the original when the original variable is re-assigned):
+--------------------------------------------------------------------------------------
+File: C:\Users\Anthony G\Desktop\TEST1\graph.java
+Line Number: 47
+Message: //C++ TO JAVA CONVERTER WARNING: The following line was determined to be a copy assignment (rather than a reference assignment) - this should be verified and a 'copyFrom' method should be created if it does not yet exist:
+--------------------------------------------------------------------------------------
+File: C:\Users\Anthony G\Desktop\TEST1\graph.java
+Line Number: 54
+Message: //C++ TO JAVA CONVERTER NOTE: This 'copyFrom' method was converted from the original copy assignment operator:
+--------------------------------------------------------------------------------------
+File: C:\Users\Anthony G\Desktop\TEST1\graph.java
+Line Number: 87
+Message: //C++ TO JAVA CONVERTER WARNING: 'const' methods are not available in Java:
+--------------------------------------------------------------------------------------
+File: C:\Users\Anthony G\Desktop\TEST1\graph.java
+Line Number: 95
+Message: //C++ TO JAVA CONVERTER WARNING: 'const' methods are not available in Java:
+--------------------------------------------------------------------------------------
+File: C:\Users\Anthony G\Desktop\TEST1\graph.java
+Line Number: 103
+Message: //C++ TO JAVA CONVERTER WARNING: 'const' methods are not available in Java:
+--------------------------------------------------------------------------------------
+File: C:\Users\Anthony G\Desktop\TEST1\graph.java
+Line Number: 116
+Message: //C++ TO JAVA CONVERTER WARNING: 'const' methods are not available in Java:
+--------------------------------------------------------------------------------------
+File: C:\Users\Anthony G\Desktop\TEST1\graph.java
+Line Number: 138
+Message: //C++ TO JAVA CONVERTER TODO TASK: Iterators are only converted within the context of 'while' and 'for' loops:
+--------------------------------------------------------------------------------------
+File: C:\Users\Anthony G\Desktop\TEST1\graph.java
+Line Number: 172
+Message: //C++ TO JAVA CONVERTER TODO TASK: Iterators are only converted within the context of 'while' and 'for' loops:
+--------------------------------------------------------------------------------------
+File: C:\Users\Anthony G\Desktop\TEST1\graph.java
+Line Number: 189
+Message: //C++ TO JAVA CONVERTER WARNING: 'const' methods are not available in Java:
+--------------------------------------------------------------------------------------
+File: C:\Users\Anthony G\Desktop\TEST1\graph.java
+Line Number: 213
+Message: //C++ TO JAVA CONVERTER WARNING: 'const' methods are not available in Java:
+--------------------------------------------------------------------------------------
+File: C:\Users\Anthony G\Desktop\TEST1\graph.java
+Line Number: 237
+Message: //C++ TO JAVA CONVERTER WARNING: 'const' methods are not available in Java:
+--------------------------------------------------------------------------------------
+File: C:\Users\Anthony G\Desktop\TEST1\graph.java
+Line Number: 266
+Message: //C++ TO JAVA CONVERTER TODO TASK: Iterators are only converted within the context of 'while' and 'for' loops:
+--------------------------------------------------------------------------------------
+File: C:\Users\Anthony G\Desktop\TEST1\graph.java
+Line Number: 383
+Message: //C++ TO JAVA CONVERTER WARNING: The following line was determined to be a copy assignment (rather than a reference assignment) - this should be verified and a 'copyFrom' method should be created if it does not yet exist:
+--------------------------------------------------------------------------------------
+File: C:\Users\Anthony G\Desktop\TEST1\graph.java
+Line Number: 388
+Message: //C++ TO JAVA CONVERTER TODO TASK: Iterators are only converted within the context of 'while' and 'for' loops:
+--------------------------------------------------------------------------------------
+File: C:\Users\Anthony G\Desktop\TEST1\graph.java
+Line Number: 447
+Message: //C++ TO JAVA CONVERTER WARNING: The following line was determined to be a copy assignment (rather than a reference assignment) - this should be verified and a 'copyFrom' method should be created if it does not yet exist:
+--------------------------------------------------------------------------------------
+File: C:\Users\Anthony G\Desktop\TEST1\graph.java
+Line Number: 464
+Message: //C++ TO JAVA CONVERTER TODO TASK: Iterators are only converted within the context of 'while' and 'for' loops:
+--------------------------------------------------------------------------------------
+File: C:\Users\Anthony G\Desktop\TEST1\graph.java
+Line Number: 499
+Message: //C++ TO JAVA CONVERTER TODO TASK: There is no direct equivalent to the STL vector 'erase' method in Java:
+--------------------------------------------------------------------------------------
+File: C:\Users\Anthony G\Desktop\TEST1\graph.java
+Line Number: 526
+Message: //C++ TO JAVA CONVERTER WARNING: 'const' methods are not available in Java:
+--------------------------------------------------------------------------------------
+File: C:\Users\Anthony G\Desktop\TEST1\graph.java
+Line Number: 532
+Message: //C++ TO JAVA CONVERTER WARNING: 'const' methods are not available in Java:
+--------------------------------------------------------------------------------------
+File: C:\Users\Anthony G\Desktop\TEST1\graph.java
+Line Number: 614
+Message: //C++ TO JAVA CONVERTER WARNING: 'const' methods are not available in Java:
+--------------------------------------------------------------------------------------
+File: C:\Users\Anthony G\Desktop\TEST1\minInfo.java
+Line Number: 23
+Message: //C++ TO JAVA CONVERTER TODO TASK: Java has no concept of a 'friend' function:
+--------------------------------------------------------------------------------------
+File: C:\Users\Anthony G\Desktop\TEST1\neighbor.java
+Line Number: 34
+Message: //C++ TO JAVA CONVERTER NOTE: Java does not allow default values for parameters. Overloaded methods are inserted above:
+--------------------------------------------------------------------------------------
+File: C:\Users\Anthony G\Desktop\TEST1\neighbor.java
+Line Number: 44
+Message: //C++ TO JAVA CONVERTER TODO TASK: Java has no concept of a 'friend' function:
+--------------------------------------------------------------------------------------
+File: C:\Users\Anthony G\Desktop\TEST1\neighbor.java
+Line Number: 51
+Message: //C++ TO JAVA CONVERTER TODO TASK: Java has no concept of a 'friend' function:
+--------------------------------------------------------------------------------------
+File: C:\Users\Anthony G\Desktop\TEST1\vertexInfo.java
+Line Number: 5
+Message: //C++ TO JAVA CONVERTER TODO TASK: The original C++ template specifier was replaced with a Java generic specifier, which may not produce the same behavior:
+--------------------------------------------------------------------------------------
+File: C:\Users\Anthony G\Desktop\TEST1\vertexInfo.java
+Line Number: 62
+Message: //C++ TO JAVA CONVERTER WARNING: The following line was determined to be a copy assignment (rather than a reference assignment) - this should be verified and a 'copyFrom' method should be created if it does not yet exist:
+--------------------------------------------------------------------------------------

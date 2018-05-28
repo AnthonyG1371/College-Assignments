@@ -1,0 +1,28 @@
+Script started on Sun 07 Dec 2014 01:56:23 PM EST
+[agoh@sol22 hw7]$ g++ hw7a.h hw7a.cpp hw7a[K[K[K[Kmain.cpp
+[agoh@sol22 hw7]$ ./a.out
+How many test scores are there? 5
+Please enter grades for each test score
+Test 1: 100^H^H       75
+Test 2: 65
+Test 3: 90
+Test 4: 100
+Test 5: 87
+Grade for test 1: 75
+Grade for test 2: 65
+Grade for test 3: 90
+Grade for test 4: 100
+Grade for test 5: 87
+The average is 83.4
+
+Displaying a copy of the test scores
+Grade for test 1: 75
+Grade for test 2: 65
+Grade for test 3: 90
+Grade for test 4: 100
+Grade for test 5: 87
+The average is 83.4
+
+[agoh@sol22 hw7]$ exit
+
+Script done on Sun 07 Dec 2014 01:57:20 PM EST

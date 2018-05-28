@@ -1,0 +1,209 @@
+3X: This board game (which is completley automated by the way, so you can't 
+really do anything) is a simple race between two players to see who gets 
+around the board 3 times first.
+
+Of course, like any board game, there will be spaces that affect the 2 players.
+The rules are simple: Roll a six sided dice and move forward that amount of 
+spaces. 
+The four types of 'action spaces' you can land on include:
+-Go Again: The current player rolls again. 
+-Lose a Turn: As stated, lose a turn. 
+-Swap Places: Switches both player's current postions. Lap progress is not 
+affected.
+-Move: Moves you forward or backward a certain number of spaces.
+
+Well, if you are ready, press any key and watch the games begin!
+---It is Player 1's turn---
+The number rolled was 2
+-Move-
+Move ahead 4 spaces.
+Player 1 is currently on space 6 on lap 1
+
+---It is Player 2's turn---
+The number rolled was 5
+Player 2 is currently on space 5 on lap 1
+
+---It is Player 1's turn---
+The number rolled was 4
+Player 1 is currently on space 10 on lap 1
+-Go again-
+Roll again Player 1!
+
+---It is Player 1's turn---
+The number rolled was 2
+Player 1 is currently on space 12 on lap 1
+
+---It is Player 2's turn---
+The number rolled was 6
+Player 2 is currently on space 11 on lap 1
+
+---It is Player 1's turn---
+The number rolled was 2
+Player 1 is currently on space 14 on lap 1
+
+---It is Player 2's turn---
+The number rolled was 5
+Player 2 is currently on space 16 on lap 1
+
+---It is Player 1's turn---
+The number rolled was 1
+-Swap Places-
+Player 1 was on space 15
+Player 2 was on space 15
+Both players have now swapped positions on the board!
+Player 1 is currently on space 16 on lap 1
+
+---It is Player 2's turn---
+The number rolled was 4
+Player 2 is currently on space 19 on lap 1
+
+---It is Player 1's turn---
+The number rolled was 2
+-Move-
+Sorry, go back 6 spaces.
+Player 1 is currently on space 12 on lap 1
+
+---It is Player 2's turn---
+The number rolled was 3
+-Move-
+Move ahead 4 spaces.
+Player 2 is currently on space 26 on lap 1
+
+---It is Player 1's turn---
+The number rolled was 2
+Player 1 is currently on space 14 on lap 1
+
+---It is Player 2's turn---
+The number rolled was 3
+-Swap Places-
+Player 1 was on space 14
+Player 2 was on space 14
+Both players have now swapped positions on the board!
+Player 2 is currently on space 14 on lap 1
+
+---It is Player 1's turn---
+The number rolled was 2
+-----Player 1 has now completed 1 laps around the board!
+Player 1 is currently on space 1 on lap 2
+
+---It is Player 2's turn---
+The number rolled was 6
+Player 2 is currently on space 20 on lap 1
+-Go again-
+Roll again Player 2!
+
+---It is Player 2's turn---
+The number rolled was 5
+Player 2 is currently on space 25 on lap 1
+
+---It is Player 1's turn---
+The number rolled was 1
+-Move-
+Move ahead 4 spaces.
+Player 1 is currently on space 6 on lap 2
+
+---It is Player 2's turn---
+The number rolled was 1
+Player 2 is currently on space 26 on lap 1
+
+---It is Player 1's turn---
+The number rolled was 5
+Player 1 is currently on space 11 on lap 2
+
+---It is Player 2's turn---
+The number rolled was 5
+-----Player 2 has now completed 1 laps around the board!
+Player 2 is currently on space 1 on lap 2
+
+---It is Player 1's turn---
+The number rolled was 6
+-Move-
+Move ahead 6 spaces.
+Player 1 is currently on space 23 on lap 2
+
+---It is Player 2's turn---
+The number rolled was 3
+Player 2 is currently on space 4 on lap 2
+-Lose a Turn-
+You lose a turn. P1 will now move twice.
+
+---It is Player 1's turn---
+The number rolled was 4
+Player 1 is currently on space 27 on lap 2
+
+---It is Player 1's turn---
+The number rolled was 4
+-----Player 1 has now completed 2 laps around the board!
+Player 1 is currently on space 1 on lap 3
+
+---It is Player 2's turn---
+The number rolled was 3
+Player 2 is currently on space 7 on lap 2
+-Go again-
+Roll again Player 2!
+
+---It is Player 2's turn---
+The number rolled was 3
+Player 2 is currently on space 10 on lap 2
+-Go again-
+Roll again Player 2!
+
+---It is Player 2's turn---
+The number rolled was 3
+Player 2 is currently on space 13 on lap 2
+-Lose a Turn-
+You lose a turn. P1 will now move twice.
+
+---It is Player 1's turn---
+The number rolled was 2
+Player 1 is currently on space 3 on lap 3
+
+---It is Player 1's turn---
+The number rolled was 2
+Player 1 is currently on space 5 on lap 3
+
+---It is Player 2's turn---
+The number rolled was 2
+-Swap Places-
+Player 1 was on space 5
+Player 2 was on space 5
+Both players have now swapped positions on the board!
+Player 2 is currently on space 5 on lap 2
+
+---It is Player 1's turn---
+The number rolled was 6
+Player 1 is currently on space 21 on lap 3
+
+---It is Player 2's turn---
+The number rolled was 1
+Player 2 is currently on space 6 on lap 2
+
+---It is Player 1's turn---
+The number rolled was 1
+-Move-
+Move ahead 4 spaces.
+Player 1 is currently on space 26 on lap 3
+
+---It is Player 2's turn---
+The number rolled was 1
+Player 2 is currently on space 7 on lap 2
+-Go again-
+Roll again Player 2!
+
+---It is Player 2's turn---
+The number rolled was 6
+Player 2 is currently on space 13 on lap 2
+-Lose a Turn-
+You lose a turn. P1 will now move twice.
+
+---It is Player 1's turn---
+The number rolled was 4
+-----Player 1 has now completed 3 laps around the board!
+
+
+
+////////////////////////////////////////
+The winner is player 1! Congratulations!
+////////////////////////////////////////
+
+

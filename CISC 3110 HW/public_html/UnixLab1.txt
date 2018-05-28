@@ -1,0 +1,62 @@
+Lab 1: Learning UNIX
+Anthony Goh, 9-28-14
+
+
+-----Shell Utilities
+1) pwd: /users1/st/agoh
+2) who:
+     zaiahmed pts/0        2014-09-28 18:11 (rrcs-198-179-90-116.nyc.biz.rr.com)
+     agoh     pts/1        2014-09-28 20:52 (pool-173-68-241-102.nycmny.east.verizon.net)
+   //seems someone else was on at the time//
+3) whoami: agoh
+4) date: Sun Sep 28 20:58:55 EDT 2014
+5) man cal: This command brings up the manual and options for a calendar function in the Linux terminal.
+
+
+-----Files and Directories
+1) cd: No output required.
+2) ls: The only user defined directory at the moment is “public_html”.
+3) ls –a: There are 36 hidden directories and files in my home directory. The . directory is the current directory, and the .. is the parent directory.
+4) ls –l: The code drwxr—r—means that the directory is readable to everyone, but only the owner of the directory can write (change) and execute it.
+5) cal 2014 > year2014:  No response required.
+6) more year2014: A 2014 calendar shows up that can be advanced forward by pressing enter.
+7) cal 6 2014 > jun.2014; cal 7 2014 > jul.2014; cal 8 2014 > aug.2014: No response required.
+8) cat jun.2014 jul.2014 aug.2014 > summer.2014: summer.2014 contains the calendar from June to August 2014.
+9) cp summer.2014 SUM.2014: No response required. (In any case, copies the summer.2014 file into the SUM.2014 file)
+10) mkdir MyCalendars: No response required.
+11) mv *2014 MyCalendars: No response required.
+12) From the 3 commands given, cd MyCalendars moves me to the MyCalendars directory. Pwd then shows me the pathname for this directory while ls lists the current files/directories in MyCalendars.
+13) rm summer.2014: This command “removed” (deleted) summer.2014. It now won’t show up when using the ls command.
+14) mkdir Summer, ls, rmdir Summer: No response required. (Made and deleted a directory)
+15) who | sort: Sorts the users on the computer by alphabetical order.
+16) cat SUM.2014 | less: Outputs the file to fit on the terminal screen. You can press enter to scroll down until the end.
+17) ls *.2014: "aug.2014  jul.2014  jun.2014  SUM.2014". This command prints all files and directories with "2014" in their name.
+18) firefox &: Exactly what it says. Opens a web browser. ...Or should if you have firefox.
+19) ps :  
+      PID TTY          TIME CMD
+      18240 pts/1    00:00:00 bash
+      18452 pts/1    00:00:00 ps
+20) Kills/ends the process in question.
+21) grep July *.2014: Displays the files that have the "July 2014" in them.
+      jul.2014:      July 2014     
+      SUM.2014:      July 2014  
+
+22-24) Output of myscript.exe
+	This is my very first script
+	The current date is:
+	Sun Sep 28 22:13:18 EDT 2014
+	My login is:
+	agoh
+25) script log: no response required.
+26) mkdir Summer, ls, rm Summer
+27) exit, cat log:
+	Script started on Sun 28 Sep 2014 10:26:50 PM EDT
+	[agoh@sol22 MyCalendars]$ mkdir Summer
+	[agoh@sol22 MyCalendars]$ ls
+	aug.2014  jul.2014  jun.2014  log  myscript.exe  SUM.2014  Summer  year2014
+	[agoh@sol22 MyCalendars]$ rmdir Summer
+	[agoh@sol22 MyCalendars]$ exit
+	exit
+
+	Script done on Sun 28 Sep 2014 10:28:10 PM EDT
+

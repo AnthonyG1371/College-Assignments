@@ -1,0 +1,1469 @@
+Script started on Tue 04 Nov 2014 10:06:56 PM EST
+[agoh@sol22 public_html]$ ./v[Kbdgame_v3
+3X: This board game is a simple race between up to 6 players to see who gets 
+around the board 3 times first.
+
+Of course, like any board game, there will be spaces that affect the 2 players.
+The rules are simple: Roll a six sided dice and move forward that amount of 
+spaces. The spaces are now color coded, with blue being the default color. 
+The four types of colored 'action spaces' you can land on include:
+
+Yellow
+-Go Again: The current player rolls again. 
+
+Red
+-Lose a Turn: As stated, lose a turn. 
+
+Green
+-Swap Places: Switches two player's current postions at your choice. Lap 
+progress is not affected.
+
+Cyan/Brown
+-Move: Moves you forward or backward a certain number of spaces.
+
+NOTE: The order of the players will be shuffled before we start. 
+
+Well, if you are ready, press any key and watch the games begin!
+
+How many players will be playing? 6
+What is your name player 1? One
+What is your name player 2? Test
+What is your name player 3? Aden
+What is your name player 4? Nexez
+What is your name player 5? Me
+What is your name player 6? CPU
+The number rolled was 2
+The number rolled was 5
+The number rolled was 4
+The number rolled was 2
+The number rolled was 6
+The number rolled was 2
+
+Shuffling complete
+The Player Order is:
+Player 1: Me
+Player 2: Test
+Player 3: Aden
+Player 4: One
+Player 5: Nexez
+Player 6: CPU
+
+---It is Me's turn---
+Me is on the Start space
+The number rolled was 5
+
+
+You landed on a blue space.
+Me is now on space 5 on lap 1
+
+
+
+---It is Test's turn---
+Test is on the Start space
+The number rolled was 1
+
+
+You landed on a blue space.
+Test is now on space 1 on lap 1
+
+
+
+---It is Aden's turn---
+Aden is on the Start space
+The number rolled was 4
+
+
+You landed on a Red space.
+Aden is now on space 4 on lap 1
+
+-Lose a Turn-
+You lose a turn. Wait out the next round please.
+Aden is now on space 4 on lap 1
+
+
+
+---It is One's turn---
+One is on the Start space
+The number rolled was 2
+
+
+You landed on a Cyan space.
+-Move-
+Move ahead 4 spaces.
+One is now on space 6 on lap 1
+
+
+
+---It is Nexez's turn---
+Nexez is on the Start space
+The number rolled was 3
+
+
+You landed on a blue space.
+Nexez is now on space 3 on lap 1
+
+
+
+---It is CPU's turn---
+CPU is on the Start space
+The number rolled was 2
+
+
+You landed on a Cyan space.
+-Move-
+Move ahead 4 spaces.
+CPU is now on space 6 on lap 1
+
+
+
+---It is Me's turn---
+Me is currently on space 5
+The number rolled was 3
+
+
+You landed on a blue space.
+Me is now on space 8 on lap 1
+
+
+
+---It is Test's turn---
+Test is currently on space 1
+The number rolled was 2
+
+
+You landed on a blue space.
+Test is now on space 3 on lap 1
+
+
+
+---It is Aden's turn---
+Aden is currently on space 4
+The number rolled was 6
+Sorry, but your turn was skipped this time!
+Aden is now on space 4 on lap 1
+
+
+
+---It is One's turn---
+One is currently on space 6
+The number rolled was 5
+
+
+You landed on a blue space.
+One is now on space 11 on lap 1
+
+
+
+---It is Nexez's turn---
+Nexez is currently on space 3
+The number rolled was 1
+
+
+You landed on a Red space.
+Nexez is now on space 4 on lap 1
+
+-Lose a Turn-
+You lose a turn. Wait out the next round please.
+Nexez is now on space 4 on lap 1
+
+
+
+---It is CPU's turn---
+CPU is currently on space 6
+The number rolled was 1
+
+
+You landed on a Yellow space.
+CPU is now on space 7 on lap 1
+
+-Go again-
+Roll again CPU!
+
+
+---It is CPU's turn---
+CPU is currently on space 7
+The number rolled was 5
+
+
+You landed on a blue space.
+CPU is now on space 12 on lap 1
+
+
+
+---It is Me's turn---
+Me is currently on space 8
+The number rolled was 5
+
+
+You landed on a Red space.
+Me is now on space 13 on lap 1
+
+-Lose a Turn-
+You lose a turn. Wait out the next round please.
+Me is now on space 13 on lap 1
+
+
+
+---It is Test's turn---
+Test is currently on space 3
+The number rolled was 6
+
+
+You landed on a blue space.
+Test is now on space 9 on lap 1
+
+
+
+---It is Aden's turn---
+Aden is currently on space 4
+The number rolled was 3
+
+
+You landed on a Yellow space.
+Aden is now on space 7 on lap 1
+
+-Go again-
+Roll again Aden!
+
+
+---It is Aden's turn---
+Aden is currently on space 7
+The number rolled was 4
+
+
+You landed on a blue space.
+Aden is now on space 11 on lap 1
+
+
+
+---It is One's turn---
+One is currently on space 11
+The number rolled was 4
+
+
+You landed on a Green space.
+-Swap Places-
+You are on space 15
+Who do you want to swap positions with? Enter 0 to cancel
+Player 1: Me	---On space 13
+Player 2: Test	---On space 9
+Player 3: Aden	---On space 11
+Player 4: One	---On space 15
+Player 5: Nexez	---On space 4
+Player 6: CPU	---On space 12
+4
+You can't swap with yourself!
+Who do you want to swap positions with? Enter 0 to cancel
+Player 1: Me	---On space 13
+Player 2: Test	---On space 9
+Player 3: Aden	---On space 11
+Player 4: One	---On space 15
+Player 5: Nexez	---On space 4
+Player 6: CPU	---On space 12
+0
+One is now on space 15 on lap 1
+
+
+---It is Nexez's turn---
+Nexez is currently on space 4
+The number rolled was 3
+Sorry, but your turn was skipped this time!
+Nexez is now on space 4 on lap 1
+
+
+
+---It is CPU's turn---
+CPU is currently on space 12
+The number rolled was 3
+
+
+You landed on a Green space.
+-Swap Places-
+You are on space 15
+Who do you want to swap positions with? Enter 0 to cancel
+Player 1: Me	---On space 13
+Player 2: Test	---On space 9
+Player 3: Aden	---On space 11
+Player 4: One	---On space 15
+Player 5: Nexez	---On space 4
+Player 6: CPU	---On space 15
+0
+CPU is now on space 15 on lap 1
+
+
+---It is Me's turn---
+Me is currently on space 13
+The number rolled was 3
+Sorry, but your turn was skipped this time!
+Me is now on space 13 on lap 1
+
+
+
+---It is Test's turn---
+Test is currently on space 9
+The number rolled was 2
+
+
+You landed on a blue space.
+Test is now on space 11 on lap 1
+
+
+
+---It is Aden's turn---
+Aden is currently on space 11
+The number rolled was 2
+
+
+You landed on a Red space.
+Aden is now on space 13 on lap 1
+
+-Lose a Turn-
+You lose a turn. Wait out the next round please.
+Aden is now on space 13 on lap 1
+
+
+
+---It is One's turn---
+One is currently on space 15
+The number rolled was 2
+
+
+You landed on a Cyan space.
+-Move-
+Move ahead 6 spaces.
+One is now on space 23 on lap 1
+
+
+
+---It is Nexez's turn---
+Nexez is currently on space 4
+The number rolled was 6
+
+
+You landed on a Yellow space.
+Nexez is now on space 10 on lap 1
+
+-Go again-
+Roll again Nexez!
+
+
+---It is Nexez's turn---
+Nexez is currently on space 10
+The number rolled was 1
+
+
+You landed on a blue space.
+Nexez is now on space 11 on lap 1
+
+
+
+---It is CPU's turn---
+CPU is currently on space 15
+The number rolled was 1
+
+
+You landed on a blue space.
+CPU is now on space 16 on lap 1
+
+
+
+---It is Me's turn---
+Me is currently on space 13
+The number rolled was 1
+
+
+You landed on a blue space.
+Me is now on space 14 on lap 1
+
+
+
+---It is Test's turn---
+Test is currently on space 11
+The number rolled was 6
+
+
+You landed on a Cyan space.
+-Move-
+Move ahead 6 spaces.
+Test is now on space 23 on lap 1
+
+
+
+---It is Aden's turn---
+Aden is currently on space 13
+The number rolled was 4
+Sorry, but your turn was skipped this time!
+Aden is now on space 13 on lap 1
+
+
+
+---It is One's turn---
+One is currently on space 23
+The number rolled was 2
+
+
+You landed on a blue space.
+One is now on space 25 on lap 1
+
+
+
+---It is Nexez's turn---
+Nexez is currently on space 11
+The number rolled was 5
+
+
+You landed on a blue space.
+Nexez is now on space 16 on lap 1
+
+
+
+---It is CPU's turn---
+CPU is currently on space 16
+The number rolled was 2
+
+
+You landed on a Brown space.
+-Move-
+Sorry, go back 6 spaces.
+CPU is now on space 12 on lap 1
+
+
+
+---It is Me's turn---
+Me is currently on space 14
+The number rolled was 5
+
+
+You landed on a Yellow space.
+Me is now on space 19 on lap 1
+
+-Go again-
+Roll again Me!
+
+
+---It is Me's turn---
+Me is currently on space 19
+The number rolled was 4
+
+
+You landed on a Yellow space.
+Me is now on space 23 on lap 1
+
+-Go again-
+Roll again Me!
+
+
+---It is Me's turn---
+Me is currently on space 23
+The number rolled was 4
+
+
+You landed on a blue space.
+Me is now on space 27 on lap 1
+
+
+
+---It is Test's turn---
+Test is currently on space 23
+The number rolled was 4
+
+
+You landed on a blue space.
+Test is now on space 27 on lap 1
+
+
+
+---It is Aden's turn---
+Aden is currently on space 13
+The number rolled was 6
+
+
+You landed on a Yellow space.
+Aden is now on space 19 on lap 1
+
+-Go again-
+Roll again Aden!
+
+
+---It is Aden's turn---
+Aden is currently on space 19
+The number rolled was 3
+
+
+You landed on a Cyan space.
+-Move-
+Move ahead 4 spaces.
+Aden is now on space 26 on lap 1
+
+
+
+---It is One's turn---
+One is currently on space 25
+The number rolled was 2
+
+
+You landed on a blue space.
+One is now on space 27 on lap 1
+
+
+
+---It is Nexez's turn---
+Nexez is currently on space 16
+The number rolled was 3
+
+
+You landed on a Yellow space.
+Nexez is now on space 19 on lap 1
+
+-Go again-
+Roll again Nexez!
+
+
+---It is Nexez's turn---
+Nexez is currently on space 19
+The number rolled was 3
+
+
+You landed on a Cyan space.
+-Move-
+Move ahead 4 spaces.
+Nexez is now on space 26 on lap 1
+
+
+
+---It is CPU's turn---
+CPU is currently on space 12
+The number rolled was 6
+
+
+You landed on a Brown space.
+-Move-
+Sorry, go back 6 spaces.
+CPU is now on space 12 on lap 1
+
+
+
+---It is Me's turn---
+Me is currently on space 27
+The number rolled was 1
+
+
+You landed on a blue space.
+Me is now on space 28 on lap 1
+
+
+
+---It is Test's turn---
+Test is currently on space 27
+The number rolled was 6
+
+-----Test has now completed 1 laps around the board!
+
+You landed on a blue space.
+Test is now on space 3 on lap 2
+
+
+
+---It is Aden's turn---
+Aden is currently on space 26
+The number rolled was 5
+
+-----Aden has now completed 1 laps around the board!
+
+You landed on a blue space.
+Aden is now on space 1 on lap 2
+
+
+
+---It is One's turn---
+One is currently on space 27
+The number rolled was 2
+
+
+You landed on a Green space.
+-Swap Places-
+You are on space 29
+Who do you want to swap positions with? Enter 0 to cancel
+Player 1: Me	---On space 28
+Player 2: Test	---On space 3
+Player 3: Aden	---On space 1
+Player 4: One	---On space 29
+Player 5: Nexez	---On space 26
+Player 6: CPU	---On space 12
+0
+One is now on space 29 on lap 1
+
+
+---It is Nexez's turn---
+Nexez is currently on space 26
+The number rolled was 3
+
+
+You landed on a Green space.
+-Swap Places-
+You are on space 29
+Who do you want to swap positions with? Enter 0 to cancel
+Player 1: Me	---On space 28
+Player 2: Test	---On space 3
+Player 3: Aden	---On space 1
+Player 4: One	---On space 29
+Player 5: Nexez	---On space 29
+Player 6: CPU	---On space 12
+
+0
+Nexez is now on space 29 on lap 1
+
+
+---It is CPU's turn---
+CPU is currently on space 12
+The number rolled was 3
+
+
+You landed on a Green space.
+-Swap Places-
+You are on space 15
+Who do you want to swap positions with? Enter 0 to cancel
+Player 1: Me	---On space 28
+Player 2: Test	---On space 3
+Player 3: Aden	---On space 1
+Player 4: One	---On space 29
+Player 5: Nexez	---On space 29
+Player 6: CPU	---On space 15
+
+4
+CPU was on space 15
+One was on space 29
+Both players have now swapped positions on the board!
+CPU is now on space 29 on lap 1
+
+
+---It is Me's turn---
+Me is currently on space 28
+The number rolled was 4
+
+-----Me has now completed 1 laps around the board!
+
+You landed on a Cyan space.
+-Move-
+Move ahead 4 spaces.
+Me is now on space 6 on lap 2
+
+
+
+---It is Test's turn---
+Test is currently on space 3
+The number rolled was 3
+
+
+You landed on a blue space.
+Test is now on space 6 on lap 2
+
+
+
+---It is Aden's turn---
+Aden is currently on space 1
+The number rolled was 3
+
+
+You landed on a Red space.
+Aden is now on space 4 on lap 2
+
+-Lose a Turn-
+You lose a turn. Wait out the next round please.
+Aden is now on space 4 on lap 2
+
+
+
+---It is One's turn---
+One is currently on space 15
+The number rolled was 5
+
+
+You landed on a Yellow space.
+One is now on space 20 on lap 1
+
+-Go again-
+Roll again One!
+
+
+---It is One's turn---
+One is currently on space 20
+The number rolled was 2
+
+
+You landed on a Cyan space.
+-Move-
+Move ahead 4 spaces.
+One is now on space 26 on lap 1
+
+
+
+---It is Nexez's turn---
+Nexez is currently on space 29
+The number rolled was 4
+
+-----Nexez has now completed 1 laps around the board!
+
+You landed on a blue space.
+Nexez is now on space 3 on lap 2
+
+
+
+---It is CPU's turn---
+CPU is currently on space 29
+The number rolled was 4
+
+-----CPU has now completed 1 laps around the board!
+
+You landed on a blue space.
+CPU is now on space 3 on lap 2
+
+
+
+---It is Me's turn---
+Me is currently on space 6
+The number rolled was 3
+
+
+You landed on a blue space.
+Me is now on space 9 on lap 2
+
+
+
+---It is Test's turn---
+Test is currently on space 6
+The number rolled was 4
+
+
+You landed on a Yellow space.
+Test is now on space 10 on lap 2
+
+-Go again-
+Roll again Test!
+
+
+---It is Test's turn---
+Test is currently on space 10
+The number rolled was 3
+
+
+You landed on a Red space.
+Test is now on space 13 on lap 2
+
+-Lose a Turn-
+You lose a turn. Wait out the next round please.
+Test is now on space 13 on lap 2
+
+
+
+---It is Aden's turn---
+Aden is currently on space 4
+The number rolled was 6
+Sorry, but your turn was skipped this time!
+Aden is now on space 4 on lap 2
+
+
+
+---It is One's turn---
+One is currently on space 26
+The number rolled was 5
+
+-----One has now completed 1 laps around the board!
+
+You landed on a blue space.
+One is now on space 1 on lap 2
+
+
+
+---It is Nexez's turn---
+Nexez is currently on space 3
+The number rolled was 4
+
+
+You landed on a Yellow space.
+Nexez is now on space 7 on lap 2
+
+-Go again-
+Roll again Nexez!
+
+
+---It is Nexez's turn---
+Nexez is currently on space 7
+The number rolled was 2
+
+
+You landed on a blue space.
+Nexez is now on space 9 on lap 2
+
+
+
+---It is CPU's turn---
+CPU is currently on space 3
+The number rolled was 6
+
+
+You landed on a blue space.
+CPU is now on space 9 on lap 2
+
+
+
+---It is Me's turn---
+Me is currently on space 9
+The number rolled was 1
+
+
+You landed on a Yellow space.
+Me is now on space 10 on lap 2
+
+-Go again-
+Roll again Me!
+
+
+---It is Me's turn---
+Me is currently on space 10
+The number rolled was 4
+
+
+You landed on a blue space.
+Me is now on space 14 on lap 2
+
+
+
+---It is Test's turn---
+Test is currently on space 13
+The number rolled was 1
+Sorry, but your turn was skipped this time!
+Test is now on space 13 on lap 2
+
+
+
+---It is Aden's turn---
+Aden is currently on space 4
+The number rolled was 4
+
+
+You landed on a blue space.
+Aden is now on space 8 on lap 2
+
+
+
+---It is One's turn---
+One is currently on space 1
+The number rolled was 3
+
+
+You landed on a Red space.
+One is now on space 4 on lap 2
+
+-Lose a Turn-
+You lose a turn. Wait out the next round please.
+One is now on space 4 on lap 2
+
+
+
+---It is Nexez's turn---
+Nexez is currently on space 9
+The number rolled was 4
+
+
+You landed on a Red space.
+Nexez is now on space 13 on lap 2
+
+-Lose a Turn-
+You lose a turn. Wait out the next round please.
+Nexez is now on space 13 on lap 2
+
+
+
+---It is CPU's turn---
+CPU is currently on space 9
+The number rolled was 3
+
+
+You landed on a blue space.
+CPU is now on space 12 on lap 2
+
+
+
+---It is Me's turn---
+Me is currently on space 14
+The number rolled was 3
+
+
+You landed on a Cyan space.
+-Move-
+Move ahead 6 spaces.
+Me is now on space 23 on lap 2
+
+
+
+---It is Test's turn---
+Test is currently on space 13
+The number rolled was 4
+
+
+You landed on a Cyan space.
+-Move-
+Move ahead 6 spaces.
+Test is now on space 23 on lap 2
+
+
+
+---It is Aden's turn---
+Aden is currently on space 8
+The number rolled was 3
+
+
+You landed on a blue space.
+Aden is now on space 11 on lap 2
+
+
+
+---It is One's turn---
+One is currently on space 4
+The number rolled was 2
+Sorry, but your turn was skipped this time!
+One is now on space 4 on lap 2
+
+
+
+---It is Nexez's turn---
+Nexez is currently on space 13
+The number rolled was 1
+Sorry, but your turn was skipped this time!
+Nexez is now on space 13 on lap 2
+
+
+
+---It is CPU's turn---
+CPU is currently on space 12
+The number rolled was 1
+
+
+You landed on a Red space.
+CPU is now on space 13 on lap 2
+
+-Lose a Turn-
+You lose a turn. Wait out the next round please.
+CPU is now on space 13 on lap 2
+
+
+
+---It is Me's turn---
+Me is currently on space 23
+The number rolled was 3
+
+
+You landed on a blue space.
+Me is now on space 26 on lap 2
+
+
+
+---It is Test's turn---
+Test is currently on space 23
+The number rolled was 3
+
+
+You landed on a blue space.
+Test is now on space 26 on lap 2
+
+
+
+---It is Aden's turn---
+Aden is currently on space 11
+The number rolled was 1
+
+
+You landed on a blue space.
+Aden is now on space 12 on lap 2
+
+
+
+---It is One's turn---
+One is currently on space 4
+The number rolled was 4
+
+
+You landed on a blue space.
+One is now on space 8 on lap 2
+
+
+
+---It is Nexez's turn---
+Nexez is currently on space 13
+The number rolled was 6
+
+
+You landed on a Yellow space.
+Nexez is now on space 19 on lap 2
+
+-Go again-
+Roll again Nexez!
+
+
+---It is Nexez's turn---
+Nexez is currently on space 19
+The number rolled was 3
+
+
+You landed on a Cyan space.
+-Move-
+Move ahead 4 spaces.
+Nexez is now on space 26 on lap 2
+
+
+
+---It is CPU's turn---
+CPU is currently on space 13
+The number rolled was 2
+Sorry, but your turn was skipped this time!
+CPU is now on space 13 on lap 2
+
+
+
+---It is Me's turn---
+Me is currently on space 26
+The number rolled was 1
+
+
+You landed on a blue space.
+Me is now on space 27 on lap 2
+
+
+
+---It is Test's turn---
+Test is currently on space 26
+The number rolled was 1
+
+
+You landed on a blue space.
+Test is now on space 27 on lap 2
+
+
+
+---It is Aden's turn---
+Aden is currently on space 12
+The number rolled was 3
+
+
+You landed on a Green space.
+-Swap Places-
+You are on space 15
+Who do you want to swap positions with? Enter 0 to cancel
+Player 1: Me	---On space 27
+Player 2: Test	---On space 27
+Player 3: Aden	---On space 15
+Player 4: One	---On space 8
+Player 5: Nexez	---On space 26
+Player 6: CPU	---On space 13
+
+2
+Aden was on space 15
+Test was on space 27
+Both players have now swapped positions on the board!
+Aden is now on space 27 on lap 2
+
+
+---It is One's turn---
+One is currently on space 8
+The number rolled was 1
+
+
+You landed on a blue space.
+One is now on space 9 on lap 2
+
+
+
+---It is Nexez's turn---
+Nexez is currently on space 26
+The number rolled was 2
+
+
+You landed on a blue space.
+Nexez is now on space 28 on lap 2
+
+
+
+---It is CPU's turn---
+CPU is currently on space 13
+The number rolled was 5
+
+
+You landed on a Brown space.
+-Move-
+Sorry, go back 6 spaces.
+CPU is now on space 12 on lap 2
+
+
+
+---It is Me's turn---
+Me is currently on space 27
+The number rolled was 5
+
+-----Me has now completed 2 laps around the board!
+
+You landed on a Cyan space.
+-Move-
+Move ahead 4 spaces.
+Me is now on space 6 on lap 3
+
+
+
+---It is Test's turn---
+Test is currently on space 15
+The number rolled was 1
+
+
+You landed on a blue space.
+Test is now on space 16 on lap 2
+
+
+
+---It is Aden's turn---
+Aden is currently on space 27
+The number rolled was 1
+
+
+You landed on a blue space.
+Aden is now on space 28 on lap 2
+
+
+
+---It is One's turn---
+One is currently on space 9
+The number rolled was 6
+
+
+You landed on a Green space.
+-Swap Places-
+You are on space 15
+Who do you want to swap positions with? Enter 0 to cancel
+Player 1: Me	---On space 6
+Player 2: Test	---On space 16
+Player 3: Aden	---On space 28
+Player 4: One	---On space 15
+Player 5: Nexez	---On space 28
+Player 6: CPU	---On space 12
+
+5
+One was on space 15
+Nexez was on space 28
+Both players have now swapped positions on the board!
+One is now on space 28 on lap 2
+
+
+---It is Nexez's turn---
+Nexez is currently on space 15
+The number rolled was 4
+
+
+You landed on a Yellow space.
+Nexez is now on space 19 on lap 2
+
+-Go again-
+Roll again Nexez!
+
+
+---It is Nexez's turn---
+Nexez is currently on space 19
+The number rolled was 5
+
+
+You landed on a Brown space.
+-Move-
+Too bad! Go back 8 spaces.
+Nexez is now on space 16 on lap 2
+
+
+
+---It is CPU's turn---
+CPU is currently on space 12
+The number rolled was 3
+
+
+You landed on a Green space.
+-Swap Places-
+You are on space 15
+Who do you want to swap positions with? Enter 0 to cancel
+Player 1: Me	---On space 6
+Player 2: Test	---On space 16
+Player 3: Aden	---On space 28
+Player 4: One	---On space 28
+Player 5: Nexez	---On space 16
+Player 6: CPU	---On space 15
+3
+CPU was on space 15
+Aden was on space 28
+Both players have now swapped positions on the board!
+CPU is now on space 28 on lap 2
+
+
+---It is Me's turn---
+Me is currently on space 6
+The number rolled was 5
+
+
+You landed on a blue space.
+Me is now on space 11 on lap 3
+
+
+
+---It is Test's turn---
+Test is currently on space 16
+The number rolled was 6
+
+
+You landed on a Cyan space.
+-Move-
+Move ahead 4 spaces.
+Test is now on space 26 on lap 2
+
+
+
+---It is Aden's turn---
+Aden is currently on space 15
+The number rolled was 4
+
+
+You landed on a Yellow space.
+Aden is now on space 19 on lap 2
+
+-Go again-
+Roll again Aden!
+
+
+---It is Aden's turn---
+Aden is currently on space 19
+The number rolled was 6
+
+
+You landed on a blue space.
+Aden is now on space 25 on lap 2
+
+
+
+---It is One's turn---
+One is currently on space 28
+The number rolled was 3
+
+-----One has now completed 2 laps around the board!
+
+You landed on a blue space.
+One is now on space 1 on lap 3
+
+
+
+---It is Nexez's turn---
+Nexez is currently on space 16
+The number rolled was 4
+
+
+You landed on a Yellow space.
+Nexez is now on space 20 on lap 2
+
+-Go again-
+Roll again Nexez!
+
+
+---It is Nexez's turn---
+Nexez is currently on space 20
+The number rolled was 1
+
+
+You landed on a blue space.
+Nexez is now on space 21 on lap 2
+
+
+
+---It is CPU's turn---
+CPU is currently on space 28
+The number rolled was 5
+
+-----CPU has now completed 2 laps around the board!
+
+You landed on a blue space.
+CPU is now on space 3 on lap 3
+
+
+
+---It is Me's turn---
+Me is currently on space 11
+The number rolled was 3
+
+
+You landed on a blue space.
+Me is now on space 14 on lap 3
+
+
+
+---It is Test's turn---
+Test is currently on space 26
+The number rolled was 2
+
+
+You landed on a blue space.
+Test is now on space 28 on lap 2
+
+
+
+---It is Aden's turn---
+Aden is currently on space 25
+The number rolled was 3
+
+
+You landed on a blue space.
+Aden is now on space 28 on lap 2
+
+
+
+---It is One's turn---
+One is currently on space 1
+The number rolled was 3
+
+
+You landed on a Red space.
+One is now on space 4 on lap 3
+
+-Lose a Turn-
+You lose a turn. Wait out the next round please.
+One is now on space 4 on lap 3
+
+
+
+---It is Nexez's turn---
+Nexez is currently on space 21
+The number rolled was 2
+
+
+You landed on a Yellow space.
+Nexez is now on space 23 on lap 2
+
+-Go again-
+Roll again Nexez!
+
+
+---It is Nexez's turn---
+Nexez is currently on space 23
+The number rolled was 4
+
+
+You landed on a blue space.
+Nexez is now on space 27 on lap 2
+
+
+
+---It is CPU's turn---
+CPU is currently on space 3
+The number rolled was 6
+
+
+You landed on a blue space.
+CPU is now on space 9 on lap 3
+
+
+
+---It is Me's turn---
+Me is currently on space 14
+The number rolled was 5
+
+
+You landed on a Yellow space.
+Me is now on space 19 on lap 3
+
+-Go again-
+Roll again Me!
+
+
+---It is Me's turn---
+Me is currently on space 19
+The number rolled was 6
+
+
+You landed on a blue space.
+Me is now on space 25 on lap 3
+
+
+
+---It is Test's turn---
+Test is currently on space 28
+The number rolled was 5
+
+-----Test has now completed 2 laps around the board!
+
+You landed on a blue space.
+Test is now on space 3 on lap 3
+
+
+
+---It is Aden's turn---
+Aden is currently on space 28
+The number rolled was 4
+
+-----Aden has now completed 2 laps around the board!
+
+You landed on a Cyan space.
+-Move-
+Move ahead 4 spaces.
+Aden is now on space 6 on lap 3
+
+
+
+---It is One's turn---
+One is currently on space 4
+The number rolled was 4
+Sorry, but your turn was skipped this time!
+One is now on space 4 on lap 3
+
+
+
+---It is Nexez's turn---
+Nexez is currently on space 27
+The number rolled was 2
+
+
+You landed on a Green space.
+-Swap Places-
+You are on space 29
+Who do you want to swap positions with? Enter 0 to cancel
+Player 1: Me	---On space 25
+Player 2: Test	---On space 3
+Player 3: Aden	---On space 6
+Player 4: One	---On space 4
+Player 5: Nexez	---On space 29
+Player 6: CPU	---On space 9
+0
+Nexez is now on space 29 on lap 2
+
+
+---It is CPU's turn---
+CPU is currently on space 9
+The number rolled was 4
+
+
+You landed on a Red space.
+CPU is now on space 13 on lap 3
+
+-Lose a Turn-
+You lose a turn. Wait out the next round please.
+CPU is now on space 13 on lap 3
+
+
+
+---It is Me's turn---
+Me is currently on space 25
+The number rolled was 6
+
+-----Me has now completed 3 laps around the board!
+
+
+
+
+////////////////////////////////////////
+The winner is Me! Congratulations!
+////////////////////////////////////////
+
+
+
+[agoh@sol22 public_html]$ exit
+
+Script done on Tue 04 Nov 2014 10:10:56 PM EST

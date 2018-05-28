@@ -1,0 +1,28 @@
+template<Typename T>
+succ(T x)
+{
+  return x++;
+}
+
+pred(T x)
+{
+  return x--;
+}
+
+add(T 0, T y)
+{
+  return y;
+}
+add(T x, T y)
+{
+  return succ(add(pred(x),y));
+}
+
+sub(T x, T 0)
+{
+  return x;
+}
+sub(T x, T y)
+{
+  sub(pred(x),pred(y));
+}

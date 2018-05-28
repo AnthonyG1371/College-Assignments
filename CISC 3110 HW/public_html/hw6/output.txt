@@ -1,0 +1,1008 @@
+Script started on Thu 20 Nov 2014 12:03:12 AM EST
+[agoh@sol22 hw6]$ ./a.out
+3X: This board game is a simple race between up to 6 players to see who gets 
+around the board 3 times first.
+
+Of course, like any board game, there will be spaces that affect the 2 players.
+The rules are simple: Roll a six sided dice and move forward that amount of 
+spaces. The spaces are now color coded, with blue being the default color. 
+The four types of colored 'action spaces' you can land on include:
+
+Yellow
+-Go Again: The current player rolls again. 
+
+Red
+-Lose a Turn: As stated, lose a turn. 
+
+Green
+-Swap Places: Switches two player's current postions at your choice. Lap 
+progress is not affected.
+
+Cyan/Brown
+-Move: Moves you forward or backward a certain number of spaces.
+
+NOTE: The order of the players will be shuffled before we start. 
+
+Well, if you are ready, press any key and watch the games begin!
+4
+How many players will be playing? 4
+What is your name player 1? one
+What is your name player 2? test
+What is your name player 3? me
+What is your name player 4? det
+The number rolled was 2
+The number rolled was 5
+The number rolled was 4
+The number rolled was 2
+
+Shuffling complete
+The Player Order is:
+Player 1: test
+Player 2: me
+Player 3: one
+Player 4: det
+
+---It is test's turn---
+test is on the Start space
+The number rolled was 6
+
+
+You landed on a Blue space.
+test is now on space 6 on lap 1
+
+
+
+---It is me's turn---
+me is on the Start space
+The number rolled was 2
+
+
+You landed on a Cyan space.
+-Move-
+Move ahead 4 spaces.
+me is now on space 6 on lap 1
+
+
+
+---It is one's turn---
+one is on the Start space
+The number rolled was 5
+
+
+You landed on a Blue space.
+one is now on space 5 on lap 1
+
+
+
+---It is det's turn---
+det is on the Start space
+The number rolled was 1
+
+
+You landed on a Blue space.
+det is now on space 1 on lap 1
+
+
+
+---It is test's turn---
+test is currently on space 6
+The number rolled was 4
+
+
+You landed on a Yellow space.
+test is now on space 10 on lap 1
+
+-Go again-
+Roll again test!
+
+
+---It is test's turn---
+test is currently on space 10
+The number rolled was 2
+
+
+You landed on a Blue space.
+test is now on space 12 on lap 1
+
+
+
+---It is me's turn---
+me is currently on space 6
+The number rolled was 3
+
+
+You landed on a Blue space.
+me is now on space 9 on lap 1
+
+
+
+---It is one's turn---
+one is currently on space 5
+The number rolled was 2
+
+
+You landed on a Yellow space.
+one is now on space 7 on lap 1
+
+-Go again-
+Roll again one!
+
+
+---It is one's turn---
+one is currently on space 7
+The number rolled was 3
+
+
+You landed on a Yellow space.
+one is now on space 10 on lap 1
+
+-Go again-
+Roll again one!
+
+
+---It is one's turn---
+one is currently on space 10
+The number rolled was 2
+
+
+You landed on a Blue space.
+one is now on space 12 on lap 1
+
+
+
+---It is det's turn---
+det is currently on space 1
+The number rolled was 6
+
+
+You landed on a Yellow space.
+det is now on space 7 on lap 1
+
+-Go again-
+Roll again det!
+
+
+---It is det's turn---
+det is currently on space 7
+The number rolled was 5
+
+
+You landed on a Blue space.
+det is now on space 12 on lap 1
+
+
+
+---It is test's turn---
+test is currently on space 12
+The number rolled was 1
+
+
+You landed on a Red space.
+test is now on space 13 on lap 1
+
+-Lose a Turn-
+You lose a turn. Wait out the next round please.
+test is now on space 13 on lap 1
+
+
+
+---It is me's turn---
+me is currently on space 9
+The number rolled was 1
+
+
+You landed on a Yellow space.
+me is now on space 10 on lap 1
+
+-Go again-
+Roll again me!
+
+
+---It is me's turn---
+me is currently on space 10
+The number rolled was 5
+
+
+You landed on a Green space.
+-Swap Places-
+You are on space 15
+Who do you want to swap positions with? Enter 0 to cancel
+Player 1: test	---On space 13
+Player 2: me	---On space 15
+Player 3: one	---On space 12
+Player 4: det	---On space 12
+
+
+0
+me is now on space 15 on lap 1
+
+
+---It is one's turn---
+one is currently on space 12
+The number rolled was 5
+
+
+You landed on a Cyan space.
+-Move-
+Move ahead 6 spaces.
+one is now on space 23 on lap 1
+
+
+
+---It is det's turn---
+det is currently on space 12
+The number rolled was 6
+
+
+You landed on a Brown space.
+-Move-
+Sorry, go back 6 spaces.
+det is now on space 12 on lap 1
+
+
+
+---It is test's turn---
+test is currently on space 13
+The number rolled was 3
+Sorry, but your turn was skipped this time!
+test is now on space 13 on lap 1
+
+
+
+---It is me's turn---
+me is currently on space 15
+The number rolled was 4
+
+
+You landed on a Blue space.
+me is now on space 19 on lap 1
+
+
+
+---It is one's turn---
+one is currently on space 23
+The number rolled was 4
+
+
+You landed on a Blue space.
+one is now on space 27 on lap 1
+
+
+
+---It is det's turn---
+det is currently on space 12
+The number rolled was 3
+
+
+You landed on a Green space.
+-Swap Places-
+You are on space 15
+Who do you want to swap positions with? Enter 0 to cancel
+Player 1: test	---On space 13
+Player 2: me	---On space 19
+Player 3: one	---On space 27
+Player 4: det	---On space 15
+
+3
+det was on space 15
+one was on space 27
+Both players have now swapped positions on the board!
+det is now on space 27 on lap 1
+
+
+---It is test's turn---
+test is currently on space 13
+The number rolled was 3
+
+
+You landed on a Blue space.
+test is now on space 16 on lap 1
+
+
+
+---It is me's turn---
+me is currently on space 19
+The number rolled was 3
+
+
+You landed on a Cyan space.
+-Move-
+Move ahead 4 spaces.
+me is now on space 26 on lap 1
+
+
+
+---It is one's turn---
+one is currently on space 15
+The number rolled was 2
+
+
+You landed on a Cyan space.
+-Move-
+Move ahead 6 spaces.
+one is now on space 23 on lap 1
+
+
+
+---It is det's turn---
+det is currently on space 27
+The number rolled was 2
+
+
+You landed on a Green space.
+-Swap Places-
+You are on space 29
+Who do you want to swap positions with? Enter 0 to cancel
+Player 1: test	---On space 16
+Player 2: me	---On space 26
+Player 3: one	---On space 23
+Player 4: det	---On space 29
+
+0
+det is now on space 29 on lap 1
+
+
+---It is test's turn---
+test is currently on space 16
+The number rolled was 2
+
+
+You landed on a Brown space.
+-Move-
+Sorry, go back 6 spaces.
+test is now on space 12 on lap 1
+
+
+
+---It is me's turn---
+me is currently on space 26
+The number rolled was 6
+
+-----me has now completed 1 laps around the board!
+
+You landed on a Cyan space.
+-Move-
+Move ahead 4 spaces.
+me is now on space 6 on lap 2
+
+
+
+---It is one's turn---
+one is currently on space 23
+The number rolled was 1
+
+
+You landed on a Brown space.
+-Move-
+Too bad! Go back 8 spaces.
+one is now on space 16 on lap 1
+
+
+
+---It is det's turn---
+det is currently on space 29
+The number rolled was 1
+
+-----det has now completed 1 laps around the board!
+
+You landed on a Blue space.
+det is on the Start space on lap 2
+
+
+
+---It is test's turn---
+test is currently on space 12
+The number rolled was 1
+
+
+You landed on a Red space.
+test is now on space 13 on lap 1
+
+-Lose a Turn-
+You lose a turn. Wait out the next round please.
+test is now on space 13 on lap 1
+
+
+
+---It is me's turn---
+me is currently on space 6
+The number rolled was 6
+
+
+You landed on a Blue space.
+me is now on space 12 on lap 2
+
+
+
+---It is one's turn---
+one is currently on space 16
+The number rolled was 4
+
+
+You landed on a Yellow space.
+one is now on space 20 on lap 1
+
+-Go again-
+Roll again one!
+
+
+---It is one's turn---
+one is currently on space 20
+The number rolled was 2
+
+
+You landed on a Cyan space.
+-Move-
+Move ahead 4 spaces.
+one is now on space 26 on lap 1
+
+
+
+---It is det's turn---
+det is on the Start space
+The number rolled was 5
+
+
+You landed on a Blue space.
+det is now on space 5 on lap 2
+
+
+
+---It is test's turn---
+test is currently on space 13
+The number rolled was 2
+Sorry, but your turn was skipped this time!
+test is now on space 13 on lap 1
+
+
+
+---It is me's turn---
+me is currently on space 12
+The number rolled was 5
+
+
+You landed on a Cyan space.
+-Move-
+Move ahead 6 spaces.
+me is now on space 23 on lap 2
+
+
+
+---It is one's turn---
+one is currently on space 26
+The number rolled was 4
+
+-----one has now completed 1 laps around the board!
+
+You landed on a Blue space.
+one is on the Start space on lap 2
+
+
+
+---It is det's turn---
+det is currently on space 5
+The number rolled was 4
+
+
+You landed on a Blue space.
+det is now on space 9 on lap 2
+
+
+
+---It is test's turn---
+test is currently on space 13
+The number rolled was 4
+
+
+You landed on a Cyan space.
+-Move-
+Move ahead 6 spaces.
+test is now on space 23 on lap 1
+
+
+
+---It is me's turn---
+me is currently on space 23
+The number rolled was 6
+
+
+You landed on a Green space.
+-Swap Places-
+You are on space 29
+Who do you want to swap positions with? Enter 0 to cancel
+Player 1: test	---On space 23
+Player 2: me	---On space 29
+Player 3: one	---On space 0
+Player 4: det	---On space 9
+
+0
+me is now on space 29 on lap 2
+
+
+---It is one's turn---
+one is on the Start space
+The number rolled was 3
+
+
+You landed on a Blue space.
+one is now on space 3 on lap 2
+
+
+
+---It is det's turn---
+det is currently on space 9
+The number rolled was 2
+
+
+You landed on a Blue space.
+det is now on space 11 on lap 2
+
+
+
+---It is test's turn---
+test is currently on space 23
+The number rolled was 3
+
+
+You landed on a Blue space.
+test is now on space 26 on lap 1
+
+
+
+---It is me's turn---
+me is currently on space 29
+The number rolled was 3
+
+-----me has now completed 2 laps around the board!
+
+You landed on a Cyan space.
+-Move-
+Move ahead 4 spaces.
+me is now on space 6 on lap 3
+
+
+
+---It is one's turn---
+one is currently on space 3
+The number rolled was 6
+
+
+You landed on a Blue space.
+one is now on space 9 on lap 2
+
+
+
+---It is det's turn---
+det is currently on space 11
+The number rolled was 1
+
+
+You landed on a Blue space.
+det is now on space 12 on lap 2
+
+
+
+---It is test's turn---
+test is currently on space 26
+The number rolled was 6
+
+-----test has now completed 1 laps around the board!
+
+You landed on a Cyan space.
+-Move-
+Move ahead 4 spaces.
+test is now on space 6 on lap 2
+
+
+
+---It is me's turn---
+me is currently on space 6
+The number rolled was 5
+
+
+You landed on a Blue space.
+me is now on space 11 on lap 3
+
+
+
+---It is one's turn---
+one is currently on space 9
+The number rolled was 2
+
+
+You landed on a Blue space.
+one is now on space 11 on lap 2
+
+
+
+---It is det's turn---
+det is currently on space 12
+The number rolled was 3
+
+
+You landed on a Green space.
+-Swap Places-
+You are on space 15
+Who do you want to swap positions with? Enter 0 to cancel
+Player 1: test	---On space 6
+Player 2: me	---On space 11
+Player 3: one	---On space 11
+Player 4: det	---On space 15
+0
+det is now on space 15 on lap 2
+
+
+---It is test's turn---
+test is currently on space 6
+The number rolled was 3
+
+
+You landed on a Blue space.
+test is now on space 9 on lap 2
+
+
+
+---It is me's turn---
+me is currently on space 11
+The number rolled was 4
+
+
+You landed on a Green space.
+-Swap Places-
+You are on space 15
+Who do you want to swap positions with? Enter 0 to cancel
+Player 1: test	---On space 9
+Player 2: me	---On space 15
+Player 3: one	---On space 11
+Player 4: det	---On space 15
+0
+me is now on space 15 on lap 3
+
+
+---It is one's turn---
+one is currently on space 11
+The number rolled was 3
+
+
+You landed on a Blue space.
+one is now on space 14 on lap 2
+
+
+
+---It is det's turn---
+det is currently on space 15
+The number rolled was 3
+
+
+You landed on a Brown space.
+-Move-
+Sorry, go back 6 spaces.
+det is now on space 12 on lap 2
+
+
+
+---It is test's turn---
+test is currently on space 9
+The number rolled was 5
+
+
+You landed on a Blue space.
+test is now on space 14 on lap 2
+
+
+
+---It is me's turn---
+me is currently on space 15
+The number rolled was 2
+
+
+You landed on a Cyan space.
+-Move-
+Move ahead 6 spaces.
+me is now on space 23 on lap 3
+
+
+
+---It is one's turn---
+one is currently on space 14
+The number rolled was 4
+
+
+You landed on a Brown space.
+-Move-
+Sorry, go back 6 spaces.
+one is now on space 12 on lap 2
+
+
+
+---It is det's turn---
+det is currently on space 12
+The number rolled was 4
+
+
+You landed on a Blue space.
+det is now on space 16 on lap 2
+
+
+
+---It is test's turn---
+test is currently on space 14
+The number rolled was 3
+
+
+You landed on a Cyan space.
+-Move-
+Move ahead 6 spaces.
+test is now on space 23 on lap 2
+
+
+
+---It is me's turn---
+me is currently on space 23
+The number rolled was 4
+
+
+You landed on a Blue space.
+me is now on space 27 on lap 3
+
+
+
+---It is one's turn---
+one is currently on space 12
+The number rolled was 3
+
+
+You landed on a Green space.
+-Swap Places-
+You are on space 15
+Who do you want to swap positions with? Enter 0 to cancel
+Player 1: test	---On space 23
+Player 2: me	---On space 27
+Player 3: one	---On space 15
+Player 4: det	---On space 16
+2
+one was on space 15
+me was on space 27
+Both players have now swapped positions on the board!
+one is now on space 27 on lap 2
+
+
+---It is det's turn---
+det is currently on space 16
+The number rolled was 6
+
+
+You landed on a Cyan space.
+-Move-
+Move ahead 4 spaces.
+det is now on space 26 on lap 2
+
+
+
+---It is test's turn---
+test is currently on space 23
+The number rolled was 5
+
+
+You landed on a Blue space.
+test is now on space 28 on lap 2
+
+
+
+---It is me's turn---
+me is currently on space 15
+The number rolled was 4
+
+
+You landed on a Blue space.
+me is now on space 19 on lap 3
+
+
+
+---It is one's turn---
+one is currently on space 27
+The number rolled was 2
+
+
+You landed on a Green space.
+-Swap Places-
+You are on space 29
+Who do you want to swap positions with? Enter 0 to cancel
+Player 1: test	---On space 28
+Player 2: me	---On space 19
+Player 3: one	---On space 29
+Player 4: det	---On space 26
+
+0
+one is now on space 29 on lap 2
+
+
+---It is det's turn---
+det is currently on space 26
+The number rolled was 6
+
+-----det has now completed 2 laps around the board!
+
+You landed on a Cyan space.
+-Move-
+Move ahead 4 spaces.
+det is now on space 6 on lap 3
+
+
+
+---It is test's turn---
+test is currently on space 28
+The number rolled was 1
+
+
+You landed on a Green space.
+-Swap Places-
+You are on space 29
+Who do you want to swap positions with? Enter 0 to cancel
+Player 1: test	---On space 29
+Player 2: me	---On space 19
+Player 3: one	---On space 29
+Player 4: det	---On space 6
+0
+test is now on space 29 on lap 2
+
+
+---It is me's turn---
+me is currently on space 19
+The number rolled was 4
+
+
+You landed on a Blue space.
+me is now on space 23 on lap 3
+
+
+
+---It is one's turn---
+one is currently on space 29
+The number rolled was 1
+
+-----one has now completed 2 laps around the board!
+
+You landed on a Blue space.
+one is on the Start space on lap 3
+
+
+
+---It is det's turn---
+det is currently on space 6
+The number rolled was 4
+
+
+You landed on a Yellow space.
+det is now on space 10 on lap 3
+
+-Go again-
+Roll again det!
+
+
+---It is det's turn---
+det is currently on space 10
+The number rolled was 3
+
+
+You landed on a Red space.
+det is now on space 13 on lap 3
+
+-Lose a Turn-
+You lose a turn. Wait out the next round please.
+det is now on space 13 on lap 3
+
+
+
+---It is test's turn---
+test is currently on space 29
+The number rolled was 4
+
+-----test has now completed 2 laps around the board!
+
+You landed on a Blue space.
+test is now on space 3 on lap 3
+
+
+
+---It is me's turn---
+me is currently on space 23
+The number rolled was 3
+
+
+You landed on a Blue space.
+me is now on space 26 on lap 3
+
+
+
+---It is one's turn---
+one is on the Start space
+The number rolled was 3
+
+
+You landed on a Blue space.
+one is now on space 3 on lap 3
+
+
+
+---It is det's turn---
+det is currently on space 13
+The number rolled was 4
+Sorry, but your turn was skipped this time!
+det is now on space 13 on lap 3
+
+
+
+---It is test's turn---
+test is currently on space 3
+The number rolled was 3
+
+
+You landed on a Blue space.
+test is now on space 6 on lap 3
+
+
+
+---It is me's turn---
+me is currently on space 26
+The number rolled was 2
+
+
+You landed on a Blue space.
+me is now on space 28 on lap 3
+
+
+
+---It is one's turn---
+one is currently on space 3
+The number rolled was 1
+
+
+You landed on a Red space.
+one is now on space 4 on lap 3
+
+-Lose a Turn-
+You lose a turn. Wait out the next round please.
+one is now on space 4 on lap 3
+
+
+
+---It is det's turn---
+det is currently on space 13
+The number rolled was 1
+
+
+You landed on a Blue space.
+det is now on space 14 on lap 3
+
+
+
+---It is test's turn---
+test is currently on space 6
+The number rolled was 3
+
+
+You landed on a Blue space.
+test is now on space 9 on lap 3
+
+
+
+---It is me's turn---
+me is currently on space 28
+The number rolled was 3
+
+-----me has now completed 3 laps around the board!
+
+
+
+
+////////////////////////////////////////
+The winner is me! Congratulations!
+////////////////////////////////////////
+
+
+
+[agoh@sol22 hw6]$ exit
+exit
+
+Script done on Thu 20 Nov 2014 12:06:32 AM EST

@@ -1,0 +1,1 @@
+mycolor = #990010width = 700height = 400x = 150y = 60
